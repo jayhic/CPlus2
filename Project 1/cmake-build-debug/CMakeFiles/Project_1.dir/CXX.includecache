@@ -1,0 +1,320 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.cpp
+Graph.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.h
+map
+-
+algorithm
+-
+iostream
+-
+string
+-
+fstream
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.h
+Point.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Point.h
+vector
+-
+string
+-
+cmath
+-
+fltk.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/fltk.h
+stdexcept
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Gui.cpp
+Gui.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Gui.h
+sstream
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Gui.h
+Window.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Window.h
+Graph.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.h
+string
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Point.h
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Simple_window.cpp
+Simple_window.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Simple_window.h
+string
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Simple_window.h
+Gui.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Gui.h
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Window.cpp
+Window.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Window.h
+Graph.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.h
+Gui.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Gui.h
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/Window.h
+fltk.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/fltk.h
+Point.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Point.h
+string
+-
+vector
+-
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/fltk.h
+FL/Fl.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl.H
+FL/Fl_Window.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_Window.H
+FL/Fl_Button.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_Button.H
+FL/Fl_Input.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_Input.H
+FL/Fl_Output.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_Output.H
+cstdlib
+-
+FL/fl_draw.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/fl_draw.H
+FL/Enumerations.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Enumerations.H
+FL/Fl_JPEG_Image.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_JPEG_Image.H
+FL/Fl_GIF_Image.H
+/space/jcox1/code/CS3210-jcox1-/Project 1/FL/Fl_GIF_Image.H
+
+/space/jcox1/code/CS3210-jcox1-/Project 1/main.cpp
+iostream
+-
+Graph.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Graph.h
+Simple_window.h
+/space/jcox1/code/CS3210-jcox1-/Project 1/Simple_window.h
+fstream
+-
+sstream
+-
+cfloat
+-
+
+/space/jcox1/local/include/FL/Enumerations.H
+FL/abi-version.h
+-
+Fl_Export.H
+/space/jcox1/local/include/FL/Fl_Export.H
+fl_types.h
+/space/jcox1/local/include/FL/fl_types.h
+
+/space/jcox1/local/include/FL/Fl.H
+FL/Fl_Export.H
+-
+FL/Fl_Cairo.H
+-
+fl_utf8.h
+/space/jcox1/local/include/FL/fl_utf8.h
+Enumerations.H
+/space/jcox1/local/include/FL/Enumerations.H
+stdio.h
+-
+FL/Fl.H
+-
+FL/Fl_Window.H
+-
+
+/space/jcox1/local/include/FL/Fl_Bitmap.H
+Fl_Image.H
+/space/jcox1/local/include/FL/Fl_Image.H
+
+/space/jcox1/local/include/FL/Fl_Button.H
+Fl_Widget.H
+/space/jcox1/local/include/FL/Fl_Widget.H
+
+/space/jcox1/local/include/FL/Fl_Cairo.H
+FL/Fl_Export.H
+-
+cairo.h
+-
+
+/space/jcox1/local/include/FL/Fl_Device.H
+FL/x.H
+-
+FL/Fl_Plugin.H
+-
+FL/Fl_Image.H
+-
+FL/Fl_Bitmap.H
+-
+FL/Fl_Pixmap.H
+-
+FL/Fl_RGB_Image.H
+-
+stdlib.h
+-
+
+/space/jcox1/local/include/FL/Fl_Export.H
+
+/space/jcox1/local/include/FL/Fl_GIF_Image.H
+Fl_Pixmap.H
+/space/jcox1/local/include/FL/Fl_Pixmap.H
+
+/space/jcox1/local/include/FL/Fl_Group.H
+Fl_Widget.H
+/space/jcox1/local/include/FL/Fl_Widget.H
+
+/space/jcox1/local/include/FL/Fl_Image.H
+Enumerations.H
+/space/jcox1/local/include/FL/Enumerations.H
+stdlib.h
+-
+
+/space/jcox1/local/include/FL/Fl_Input.H
+Fl_Input_.H
+/space/jcox1/local/include/FL/Fl_Input_.H
+
+/space/jcox1/local/include/FL/Fl_Input_.H
+Fl_Widget.H
+/space/jcox1/local/include/FL/Fl_Widget.H
+
+/space/jcox1/local/include/FL/Fl_JPEG_Image.H
+Fl_Image.H
+/space/jcox1/local/include/FL/Fl_Image.H
+
+/space/jcox1/local/include/FL/Fl_Output.H
+Fl_Input.H
+/space/jcox1/local/include/FL/Fl_Input.H
+
+/space/jcox1/local/include/FL/Fl_Pixmap.H
+Fl_Image.H
+/space/jcox1/local/include/FL/Fl_Image.H
+x.H
+/space/jcox1/local/include/FL/x.H
+
+/space/jcox1/local/include/FL/Fl_Plugin.H
+Fl_Preferences.H
+/space/jcox1/local/include/FL/Fl_Preferences.H
+
+/space/jcox1/local/include/FL/Fl_Preferences.H
+stdio.h
+-
+Fl_Export.H
+/space/jcox1/local/include/FL/Fl_Export.H
+
+/space/jcox1/local/include/FL/Fl_RGB_Image.H
+Fl_Image.H
+/space/jcox1/local/include/FL/Fl_Image.H
+
+/space/jcox1/local/include/FL/Fl_Widget.H
+Enumerations.H
+/space/jcox1/local/include/FL/Enumerations.H
+stdint.h
+-
+stddef.h
+-
+
+/space/jcox1/local/include/FL/Fl_Window.H
+windows.h
+-
+Fl_Group.H
+/space/jcox1/local/include/FL/Fl_Group.H
+Fl_Bitmap.H
+/space/jcox1/local/include/FL/Fl_Bitmap.H
+stdlib.h
+-
+
+/space/jcox1/local/include/FL/abi-version.h
+
+/space/jcox1/local/include/FL/fl_draw.H
+FL/x.H
+-
+FL/Enumerations.H
+-
+FL/Fl_Window.H
+-
+FL/Fl_Device.H
+-
+
+/space/jcox1/local/include/FL/fl_types.h
+
+/space/jcox1/local/include/FL/fl_utf8.h
+Fl_Export.H
+/space/jcox1/local/include/FL/Fl_Export.H
+fl_types.h
+/space/jcox1/local/include/FL/fl_types.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+locale.h
+-
+ctype.h
+-
+wchar.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+X11/Xlocale.h
+-
+X11/Xlib.h
+-
+locale.h
+-
+
+/space/jcox1/local/include/FL/mac.H
+FL/Fl_Widget.H
+-
+ApplicationServices/ApplicationServices.h
+-
+Fl_Window.H
+/space/jcox1/local/include/FL/Fl_Window.H
+../src/Fl_Font.H
+/space/jcox1/local/include/src/Fl_Font.H
+
+/space/jcox1/local/include/FL/win32.H
+windows.h
+-
+FL/Fl_Window.H
+-
+
+/space/jcox1/local/include/FL/x.H
+Enumerations.H
+/space/jcox1/local/include/FL/Enumerations.H
+win32.H
+/space/jcox1/local/include/FL/win32.H
+mac.H
+/space/jcox1/local/include/FL/mac.H
+X11/Xlib.h
+-
+X11/Xutil.h
+-
+X11/Xatom.h
+-
+Fl_Window.H
+/space/jcox1/local/include/FL/Fl_Window.H
+
