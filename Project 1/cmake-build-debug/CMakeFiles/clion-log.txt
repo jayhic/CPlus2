@@ -1,4 +1,0 @@
-/mnt/nfs/netapp2/grad/jcox1/clion-2016.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DFLTK_DIR:path=~/local/share/fltk -G "CodeBlocks - Unix Makefiles" "/space/jcox1/code/CS3210-jcox1-/Project 1"
--- Configuring done
--- Generating done
--- Build files have been written to: /space/jcox1/code/CS3210-jcox1-/Project 1/cmake-build-debug
